@@ -1,6 +1,5 @@
 
 # Occupancy Network based 3D Image Reconstruction usingSingle-Depth View
-Bo Yang, Stefano Rosa, Andrew Markham, Niki Trigoni, Hongkai Wen. [TPAMI](http://dx.doi.org/10.1109/TPAMI.2018.2868195), 2018.
 
 ## (1) Architecture
 ![Arch_Image](https://github.com/Yang7879/3D-RecGAN-extended/blob/master/3D-RecGAN%2B%2B_arch.png)
@@ -16,7 +15,7 @@ Bo Yang, Stefano Rosa, Andrew Markham, Niki Trigoni, Hongkai Wen. [TPAMI](http:/
 [https://drive.google.com/open?id=1wTE721q0r66Z6yyN68O1Tz4Bg5-aYnq3](https://drive.google.com/open?id=1wTE721q0r66Z6yyN68O1Tz4Bg5-aYnq3)
 
 
-## (5) Requirements
+## (4) Requirements
 python 2.7.6
 
 tensorflow 1.2.0
@@ -29,7 +28,7 @@ matplotlib 2.0.2
 
 skimage 0.13.0
 
-## (6) Run
+## (5) Run
 #### Training
 ```
 source venv/bin/activate
@@ -44,7 +43,7 @@ source venv/bin/activate
 python main.py
 ```
 
-## (7) Citation
+## (6) Citation
 ```
 @inProceedings{Yang18,
   title={Dense 3D Object Reconstruction from a Single Depth View},
